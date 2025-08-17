@@ -1,0 +1,11 @@
+baseURL = "https://zhimahu-blog.github.io/"
+title = "我的博客"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "light"  # 固定为亮色模式
+
+[languages]
+  [languages.zh]
+    languageName = "中文"
+    weight = 1
